@@ -1,4 +1,4 @@
- Oii, eu sou o Marcos! Atualmente, estou em busca de oportunidades na área de desenvolvimento e passo meu tempo livre criando projetos pessoais.
+### Oii, eu sou o Marcos! Atualmente, estou em busca de oportunidades na área de desenvolvimento e passo meu tempo livre criando projetos pessoais.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
